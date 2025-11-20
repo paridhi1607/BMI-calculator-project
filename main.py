@@ -32,14 +32,14 @@ else:
     
 kcal = bmr*1.375
 
-report = print("HEALTH REPORT")
+report = print("___________________________________________HEALTH REPORT___________________________________________")
 print(report)
-print("NAME:",name)
-print("AGE:",age)
-print("gender", gender)
-print("height in metres",height)
-print("weight in kilos",weight)
-print("BMI according to your age and gender and height", bmi)
+print("NAME :",name)
+print("AGE :",age)
+print("gender :", gender)
+print("height in metres :",height)
+print("weight in kilos :",weight)
+print("BMI according to your age and gender and height :", bmi)
 print(category)
 print(advice)
 print("BMR", bmr)
